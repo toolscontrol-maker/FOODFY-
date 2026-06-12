@@ -96,6 +96,11 @@ dist/
 .DS_Store
 Thumbs.db
 
+# SQLite temp/journal files
+*.db-shm
+*.db-wal
+*.db-journal
+
 # Agent state
 .devin/
 .gemini/
