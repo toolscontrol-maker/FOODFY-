@@ -1,0 +1,808 @@
+- DASHBOARD
+  - DASHBOARD AQUI EL DUEÑO OBSERVA TODAS LAS AANILITCAS DE TODO, ADEMASGESTIONA TODO, EL STOCK, LOS AJUSTES DE SLOTS DE PEDIDOS, DOMINIO, NUMEROS DE TELEFONO, FATURACION, IMPUESTOS, AÑADE PRUDCTOS, CUALQUIER CAMBIO, INFORMCION Y AJUSTE NECESARIO LO HACE AQUI, ADEMAS DE ANALITICAS DETALLADAS
+  - ESTRUCTURA
+    - Inicio
+    - Pedidos  
+      - Al pulsar pedidos 
+        - Se abre la pagina de pedidos
+          - aqui es donde el usuario revisa el hitorial de todos los pedidos, tambien puede crearlos de forma manual
+        - Se abre el acceso a la subpágina de pedidos abandonados
+          - funciones de esta pagina
+            - Aquí se mostrarán los pedidos abandonados
+Cuándo los clientes agregan un artículo a su carrito pero no completan el pago. También puedes enviarles por correo electrónico un enlace a su carrito.
+      - undefined
+    - productos
+      - Al pulsar productos
+      - pagina de productos abierta
+        - subpáginas desplegadas al pulsar en "productos
+          - colecciones
+          - inventarios
+          - ordenes de compra
+          - transferencias
+          - tarjetas regalo
+        - Visualización de página de productos
+          - agregar productos
+            - al pulsar
+              - página de creación de nuevo producto
+          - importar productos
+            - al pulsar
+              - Pop un de herramienta de importación
+          - exportar productos
+            - al pulsar
+              - Pop un de herramienta de exportación
+          - archivar productos
+          - selecciona productos de forma múltiple
+            - edición masiva
+            - marcar como borrador
+            - tres puntitos
+              - archivar productos
+              - ocultar productos
+              - incluir en canales de venta
+              - excluir en canales de venta
+              - Agregar etiquetas
+              - Eliminar etiquetas
+              - Agregar a colección/es
+              - Eliminar de colescción/es
+              - Apps
+                - apps sinc
+          - Seleccionar prouctos
+            - al pulsar
+              - página de edición de producto
+    - CLIENTES
+      - Al pulsar clientes
+      - se abre la página de clientes
+        - visualizacion de la pagina de clientes
+        - subpaginas disponibles 
+          - Segmentos
+    - marketing
+      - AL pulsar marketing
+      - Se abre la pestaña de marketing
+      - Se abren subpaginas disponibles 
+        - Automatizaciones
+    - descuentos
+      - Al pulsar descuentos
+      - Pagina de descuentos abierta
+        - boton arriba  a la derecha 
+          - Selecciona el tipo de descuento
+          - Descuento en productosAplica descuentos a productos específicos o colecciones de productosCompra X y obtén YAplica descuentos a productos específicos o colecciones de productosDescuento en el pedidoAplica descuentos al importe total del pedidoEnvío gratisOfrece envío gratis en un pedido
+    - contenido
+      - Al pulsar contenidos
+        - Se abre de forma predeterminada la pagina de metaobjetos
+        - Se abren la seleccion de las paginas a la izquierda
+          - metaobjetos
+          - menús
+            - se. carga de forma predeterminada
+            - botones arriba a la derecha (dirigen a subpaginas dentro de menus)
+              - Redireccionamientos de url
+              - Crear menú
+          - articulos de blog
+    - informes y estadísticas
+    - Mercados
+    - Tienda online
+    - Apps
+    - CONFIGURACIÓN
+  - Floating Topic
+  - ELEMENTOS GENERALES
+    - "MAS INFORMACIÓN" BOTÓN
+      - Redirige a la web de help.foddfy
+        - undefined
+    - undefined
+    - BARRA SUPERIOR FIJA
+      - incono foodfy
+        - Redirige al inicio
+      - Barra de búscqueda
+      - Asistente
+      - Notificaciones
+      - Seleccion de tienda
+    - AI "FODFY :)"
+    - undefined
+    - Pagina flotante "Seleccionador de archivos
+    - Subtopic 7
+  - DISEÑO DE PAGINA DE CONFIGURACIÓN, ( a la izquiera del todo se muestran las paginas, seguido de estas a la derech se muestran los elementos, ajustes,e tc de cada una
+    - GENERAL: En general obtienes una vista general de la tienda, aqui ouedes ver y editar los datos de la tienda, los valores predeterminados de la tienda
+      - Datos de la tienda
+        - "Nombre de la tienda"
+          - undefined
+        - Direccion de la de la tiend
+      - Valores predeterminados de la tienda
+        - Visualización de la moneda, este contiene tres puntitos, al pulsarlos
+          - undefined
+            - Cambiar moneda de la tienda
+            - Cambiar formato de la tienda
+        - Región de copia de seguridad
+
+        - Sistema de unidades
+
+        - Unidad de peso predeterminada
+
+        - Zona horaria
+Establece la hora en la que se registran los pedidos y los informes y estadísticas
+      - Indentificadores de pedido
+        - Se muestra en la página de pedido, las páginas de cliente y las notificaciones de pedido del cliente para identificar el pedido
+          - Prefijo 
+          - Sufijo
+      - Procesamiento de pedidos
+        - Mientras el cliente realiza el pago
+
+          - Seleccionabes
+            - 
+Requerir un paso de confirmación
+Los clientes deben revisar los detalles de su pedido antes de comprar.
+        - Después de que se ha pagado un pedido
+          - Selecciones
+            - Preparar automáticamente las líneas de artículo del pedido
+            - Preparar automáticamente solo las tarjetas de regalo del pedido
+
+            - No preparar automáticamente ninguna de las líneas de artículo del pedido
+
+        - Después de que un pedido se ha preparado y pagado, o cuando todos los artículos se han reembolsado
+
+          - Selecciones
+            - Archivar el pedido automáticamente
+(El pedido se eliminará de tu lista de pedidos abiertos.)
+      - Recursos de la tienda
+        - Metacampos
+          - Lleva a metacampos de shopp
+        - Marca
+          - LLeva a subpagina dentro de marca 
+            - Que deberia agregar?(Menaje informativo responsive
+              - ESENCIAL
+                - logo predetermiando
+                - Logo cuadrado
+                - Colores
+              - ADICIONAL
+                - ......
+            - Logos
+              - Predeterminado
+	Se usa para las aplicaciones más comunes del logo
+              - Cuadrado
+Lo usan algunos canales de redes sociales. Puede recortarse en forma de círculo.
+            - Colores
+              - Principal
+Los colores de marca que aparecen en tu tienda, redes sociales y más sitios
+              - Secundario
+Colores complementarios que se usan para destacar y añadir detalles
+            - Imagen de portada
+              - Imagen clave que muestra tu marca en páginas de perfil y apps
+
+            - Eslogan
+
+              - Declaración de marca o eslogan que suele usarse junto con tu logo
+
+            - Descripción corta
+
+              - Descripción de tu negocio que suele usarse en biografías y publicaciones
+
+            - Enlace a redes sociales
+              - Al pulsar de abre mini desplegales de redes sociales
+            - Mensaje de pie de pagina
+              - Más información sobre cómo gestionar la configuración de tu marca
+      - Subtopic 6
+    - PLAN
+      - Información del plan
+        - Boton  de cambiar pla arriba a la derecha
+          - al pulsar cambiar plan 
+            - Se abre la seleccion de planes
+              - AL seleccionar el plan actual
+                - Tambien redirige a la pagina defacturación pero al darle a auscribirse sale como si se actulizara la siscripcion, pero es solo front en
+              - Al seleccionar una nuevo plan 
+                - Se abre la pagina de pago
+        - Boton de vern todas las funciones abajo
+          - AL pulsar en "ver funciones"
+            - Se abre la pagina de pago
+        - Cancelar plan
+          - AL pulsar en cancelar plan
+            - Sale el popup de cancelacion de plan
+      - Suscripciones
+    - FACTURACIÓN
+      - Proxima factura
+        - boton "ver factura" arriba  a la dereha
+        - Perfil de facturación
+          - al pulsar
+            - undefined
+              - Formas de pago, qui salen las tarjetas giardadas
+                - en eset hay un boton de "agreagar o remplazar forma de pago"
+                  - se abre el popup de añadir tarjeta (si añades una tarejta sale pues en las formas de pago)
+              - ID fiscal
+              - Moneda
+      - Moneda
+        - Las opciones de tu moneda de facturación están determinadas por tu país de la empresa.
+          - al pulsar se abre la pagina de seleccion de moneda
+            - Las opciones de tu moneda de facturación están determinadas por tu país de la empresa.
+    - USUARIOS
+      - pagina de usuarios
+        - Subpaginas despegabladas
+          - Roles
+          - Seguridad
+            - Subtopic 1
+        - arriba a la derecha
+          - Exportar
+            - al puslar
+          - Agregar usuarios
+            - al puslar
+              - Se abre la subpagina de agregacion de usuarios
+                - Diseño de la pagina:
+                  - Informción del usuario
+                    - aqui primero selecciona si es 
+                      - Usuario de amdin
+                      - Usuario del POC
+                      - Usuario del driver
+                  - Autenticación en dos pasos
+                  - Roles
+        - tras arriba  a la derecha
+          - Subtopic 1
+    -  PAGINA 5 "PAGOS"
+      - efeferfrefre
+        - Subtopic 1
+        - Subtopic 2
+        - Subtopic 3
+        - Subtopic 4
+        - Subtopic 5
+        - Subtopic 6
+        - Subtopic 7
+        - Subtopic 8
+    - Subtopic 21
+    - Subtopic 22
+    - Subtopic 23
+    - PÁGINA 6  "PAGO"
+      - BLOQUES DENTRO DE LA PÁGINA ( EN SU ORDEN)
+        - PANTALL DE PAGO (BLOQUE 1, seleccionables)
+          -  Método de contacto del cliente. El método de contacto que los clientes introducen en la pantalla de pago recibirá las notificaciones del pedido y del envío
+          - Número de teléfono o correo electrónico "Se requiere un app de SMS para enviar actualizaciones por SMS"
+          - Corre electrónico
+          - Muesta un enlace para que los clientes hagan un seguimiento de su pedido
+          - Requerir que los clientes inicien sesion en su cuenta antes del pago
+        - Información del cliente: aqui es donde eligues cuales son los datos que vas a exigir a tu cliente antes de la compra, puedes no incluir, hacer opcional, o hacer obligatorio, cuando mad datos son los que se piden, mayor puede ser su percentaje de perdida por disuasion
+        - Opciones de márketing
+        - Propinas
+          - Opcion seleccionable
+            - Los clientes pueden elegir entre 3 opciones predefinidas o introducir una cantidad personalizada
+        - Idioma de la pantalla de pago
+        - PREFERNCIAS AVANZADAS
+          - Recopilación de direcciones
+          - Limite de agregar al carrito "Recommendado"
+        - Reglas de pago
+    - CUENTAS DE CLIENTE
+      - fre
+    - ENVÍA Y ENTREGA
+    - IMPUESTOS Y ARANCELES
+      - 4r5f54
+    - SUSCURSALES
+    - APPS
+    - CANALES DE VENTA
+    - DOMINIOS
+    - EVENTOS DE CLIENTE
+    - NOTIFICACIONES
+    - METACAMPOS Y METAOBJETOS
+    - IDIOMAS
+    - PRIVACIDAD DEL CLIENTE
+    - POLÍTICAS
+    - toni torrent ejemplo@gmailcom
+  - X
+  - Floating Topic
+  - Escala de HEX
+  - undefined
+- PROCESO DE WEB A APP
+  - LANDING SING IN PAGE
+  - undefined
+  - INICIA SESION
+  - CREA TIENDA
+  - SELECCIONA TIENDA
+  - CREA CUENTA
+  - CONFIGURA FACUTRACIÓN (OMITIBLE DURANTE 3 DIAS)
+  - CREA TIENDA
+  - SELECCIONA TIENDA (no puede porque no hay)
+  - DASHBOARD
+  - ENTRA EN LA TIENDA
+  - "INICIAR SESION"
+  - "COMENZAR GRATIS"
+  - FACTURACION CONFIGURADA? 
+  - SI
+  - NO
+  - OMITE (OMITIBLE DURANTE 3 DÍAS)
+  - CONFIGURA FACUTRACIÓN 1€
+  - CONFIGURA FACUTRACIÓN 1€ Omitible durante 3 dias
+  - DASHBOARD
+  - PREGUNTAS DE RECONOCIMIENTO
+  - dashboard
+  - HAN PASADO 3 DIAS?
+  - SI
+  - NO
+  - CONFIGURA FACUTRACIÓN OBLIGATORIA
+  - SELECCIONA CUENTA
+  - DASHBOARD 
+  - DASHBOARD
+  - ECOSISTEMA 
+  - DASHBOARD AQUI EL DUEÑO OBSERVA TODAS LAS AANILITCAS DE TODO, ADEMASGESTIONA TODO, EL STOCK, LOS AJUSTES DE SLOTS DE PEDIDOS, DOMINIO, NUMEROS DE TELEFONO, FATURACION, IMPUESTOS, AÑADE PRUDCTOS, CUALQUIER CAMBIO, INFORMCION Y AJUSTE NECESARIO LO HACE AQUI, ADEMAS DE ANALITICAS DETALLADAS
+  - FOODFIXY POS 
+  - FOODFY POS FOR DRIVERS
+  - APP CON INTERFAZ MOVIL CREADA ESPECIFICAMENTE PARA DRIVERS, RUTAS, COBROS, TODO LO QUE NECESITA UN DRIVER PARA TEER TODO CONTROLADO
+  - PARA LA CONTROL Y LA GESTIÓN DE LA COCINA COMPLETO, PEDIDOS, PREPARACIÓN, GESTION DE REPARTOS, ETC
+  - ESTRUCTURA
+    - Inicio
+    - Pedidos  
+      - Al pulsar pedidos 
+        - Se abre la pagina de pedidos
+          - aqui es donde el usuario revisa el hitorial de todos los pedidos, tambien puede crearlos de forma manual
+        - Se abre el acceso a la subpágina de pedidos abandonados
+          - funciones de esta pagina
+            - Aquí se mostrarán los pedidos abandonados
+Cuándo los clientes agregan un artículo a su carrito pero no completan el pago. También puedes enviarles por correo electrónico un enlace a su carrito.
+      - undefined
+    - productos
+      - Al pulsar productos
+      - pagina de productos abierta
+        - subpáginas desplegadas al pulsar en "productos
+          - colecciones
+          - inventarios
+          - ordenes de compra
+          - transferencias
+          - tarjetas regalo
+        - Visualización de página de productos
+          - agregar productos
+            - al pulsar
+              - página de creación de nuevo producto
+          - importar productos
+            - al pulsar
+              - Pop un de herramienta de importación
+          - exportar productos
+            - al pulsar
+              - Pop un de herramienta de exportación
+          - archivar productos
+          - selecciona productos de forma múltiple
+            - edición masiva
+            - marcar como borrador
+            - tres puntitos
+              - archivar productos
+              - ocultar productos
+              - incluir en canales de venta
+              - excluir en canales de venta
+              - Agregar etiquetas
+              - Eliminar etiquetas
+              - Agregar a colección/es
+              - Eliminar de colescción/es
+              - Apps
+                - apps sinc
+          - Seleccionar prouctos
+            - al pulsar
+              - página de edición de producto
+    - CLIENTES
+      - Al pulsar clientes
+      - se abre la página de clientes
+        - visualizacion de la pagina de clientes
+        - subpaginas disponibles 
+          - Segmentos
+    - marketing
+      - AL pulsar marketing
+      - Se abre la pestaña de marketing
+      - Se abren subpaginas disponibles 
+        - Automatizaciones
+    - descuentos
+      - Al pulsar descuentos
+      - Pagina de descuentos abierta
+        - boton arriba  a la derecha 
+          - Selecciona el tipo de descuento
+          - Descuento en productosAplica descuentos a productos específicos o colecciones de productosCompra X y obtén YAplica descuentos a productos específicos o colecciones de productosDescuento en el pedidoAplica descuentos al importe total del pedidoEnvío gratisOfrece envío gratis en un pedido
+    - contenido
+      - Al pulsar contenidos
+        - Se abre de forma predeterminada la pagina de metaobjetos
+        - Se abren la seleccion de las paginas a la izquierda
+          - metaobjetos
+          - menús
+            - se. carga de forma predeterminada
+            - botones arriba a la derecha (dirigen a subpaginas dentro de menus)
+              - Redireccionamientos de url
+              - Crear menú
+          - articulos de blog
+    - informes y estadísticas
+    - Mercados
+    - Tienda online
+    - Apps
+    - CONFIGURACIÓN
+  - CREACION DE CONTENIDO ORGANIC
+    - TIER A
+      - VIDEOS EDUCTATIVOS COMPLETOS E INFOGRAFIAS
+        - cómo usar cada cosa
+        - fiscaliad
+        - permisos, papeles
+        - cómo empezar
+        - videos teoricos de mentalidad y explicacion del modelo de negocio
+    - TIER B
+      - CONTENIDO LLAMATIVOEDUCATIVO
+        - Post de valor de alta conversión en X
+          - Formato texto
+          - Formato video + texto
+        - Post de valor de alta conversión en Reddit
+          - Formato texto
+          - Formato video + texto
+        - Posts de alto valor en Linkedin
+          - Formato texto
+          - Formato video + texto
+        - Posts de alto valor en Threads
+          - Formato texto
+          - Formato video + texto
+    - TIER C
+      - CONTENIDO
+  - AFILIACIONES
+  - atracción de clientes
+  - Load screens
+    - Subtopic 1
+    - Subtopic 2
+    - Subtopic 3
+  - Floating Topic
+  - ELEMENTOS GENERALES
+    - "MAS INFORMACIÓN" BOTÓN
+      - Redirige a la web de help.foddfy
+        - undefined
+    - undefined
+    - BARRA SUPERIOR FIJA
+      - incono foodfy
+        - Redirige al inicio
+      - Barra de búscqueda
+      - Asistente
+      - Notificaciones
+      - Seleccion de tienda
+    - AI "FODFY :)"
+    - undefined
+    - Pagina flotante "Seleccionador de archivos
+  - DISEÑO DE PAGINA DE CONFIGURACIÓN
+    - GENERAL: En general obtienes una vista general de la tienda, aqui ouedes ver y editar los datos de la tienda, los valores predeterminados de la tienda
+      - Datos de la tienda
+        - "Nombre de la tienda"
+          - undefined
+        - Direccion de la de la tiend
+      - Valores predeterminados de la tienda
+        - Visualización de la moneda, este contiene tres puntitos, al pulsarlos
+          - undefined
+            - Cambiar moneda de la tienda
+            - Cambiar formato de la tienda
+        - Región de copia de seguridad
+
+        - Sistema de unidades
+
+        - Unidad de peso predeterminada
+
+        - Zona horaria
+Establece la hora en la que se registran los pedidos y los informes y estadísticas
+      - Indentificadores de pedido
+        - Se muestra en la página de pedido, las páginas de cliente y las notificaciones de pedido del cliente para identificar el pedido
+          - Prefijo 
+          - Sufijo
+      - Procesamiento de pedidos
+        - Mientras el cliente realiza el pago
+
+          - Seleccionabes
+            - 
+Requerir un paso de confirmación
+Los clientes deben revisar los detalles de su pedido antes de comprar.
+        - Después de que se ha pagado un pedido
+          - Selecciones
+            - Preparar automáticamente las líneas de artículo del pedido
+            - Preparar automáticamente solo las tarjetas de regalo del pedido
+
+            - No preparar automáticamente ninguna de las líneas de artículo del pedido
+
+        - Después de que un pedido se ha preparado y pagado, o cuando todos los artículos se han reembolsado
+
+          - Selecciones
+            - Archivar el pedido automáticamente
+(El pedido se eliminará de tu lista de pedidos abiertos.)
+      - Recursos de la tienda
+        - Metacampos
+          - Lleva a metacampos de shopp
+        - Marca
+          - LLeva a subpagina dentro de marca 
+            - Que deberia agregar?(Menaje informativo responsive
+              - ESENCIAL
+                - logo predetermiando
+                - Logo cuadrado
+                - Colores
+              - ADICIONAL
+                - ......
+            - Logos
+              - Predeterminado
+	Se usa para las aplicaciones más comunes del logo
+              - Cuadrado
+Lo usan algunos canales de redes sociales. Puede recortarse en forma de círculo.
+            - Colores
+              - Principal
+Los colores de marca que aparecen en tu tienda, redes sociales y más sitios
+              - Secundario
+Colores complementarios que se usan para destacar y añadir detalles
+            - Imagen de portada
+              - Imagen clave que muestra tu marca en páginas de perfil y apps
+
+            - Eslogan
+
+              - Declaración de marca o eslogan que suele usarse junto con tu logo
+
+            - Descripción corta
+
+              - Descripción de tu negocio que suele usarse en biografías y publicaciones
+
+            - Enlace a redes sociales
+              - Al pulsar de abre mini desplegales de redes sociales
+            - Mensaje de pie de pagina
+              - Más información sobre cómo gestionar la configuración de tu marca
+      - Subtopic 6
+    - PLAN
+      - Información del plan
+        - Boton  de cambiar pla arriba a la derecha
+          - al pulsar cambiar plan 
+            - Se abre la seleccion de planes
+              - AL seleccionar el plan actual
+                - Tambien redirige a la pagina defacturación pero al darle a auscribirse sale como si se actulizara la siscripcion, pero es solo front en
+              - Al seleccionar una nuevo plan 
+                - Se abre la pagina de pago
+        - Boton de vern todas las funciones abajo
+          - AL pulsar en "ver funciones"
+            - Se abre la pagina de pago
+        - Cancelar plan
+          - AL pulsar en cancelar plan
+            - Sale el popup de cancelacion de plan
+      - Suscripciones
+    - FACTURACIÓN
+      - Proxima factura
+        - boton "ver factura" arriba  a la dereha
+        - Perfil de facturación
+          - al pulsar
+            - undefined
+              - Formas de pago, qui salen las tarjetas giardadas
+                - en eset hay un boton de "agreagar o remplazar forma de pago"
+                  - se abre el popup de añadir tarjeta (si añades una tarejta sale pues en las formas de pago)
+              - ID fiscal
+              - Moneda
+      - Moneda
+        - Las opciones de tu moneda de facturación están determinadas por tu país de la empresa.
+          - al pulsar se abre la pagina de seleccion de moneda
+            - Las opciones de tu moneda de facturación están determinadas por tu país de la empresa.
+    - USUARIOS
+      - pagina de usuarios
+        - Subpaginas despegabladas
+          - Roles
+          - Seguridad
+            - Subtopic 1
+        - arriba a la derecha
+          - Exportar
+            - al puslar
+          - Agregar usuarios
+            - al puslar
+              - Se abre la subpagina de agregacion de usuarios
+                - Diseño de la pagina:
+                  - Informción del usuario
+                    - aqui primero selecciona si es 
+                      - Usuario de amdin
+                      - Usuario del POC
+                      - Usuario del driver
+                  - Autenticación en dos pasos
+                  - Roles
+        - tras arriba  a la derecha
+          - Subtopic 1
+    - PAGOS
+      - Como crear un usuario completo con sus roles? 
+        - Entras en la pagina de usuarios
+          - lle dass al boton de agregar usuario
+            - Se abre la subpagina de agregacion de usuarios
+    - CUENTAS DE CLIENTE
+    - ENVÍA Y ENTREGA
+    - IMPUESTOS Y ARANCELES
+    - SUSCURSALES
+    - APPS
+    - CANALES DE VENTA
+    - DOMINIOS
+    - EVENTOS DE CLIENTE
+    - NOTIFICACIONES
+    - METACAMPOS Y METAOBJETOS
+    - IDIOMAS
+    - PRIVACIDAD DEL CLIENTE
+    - POLÍTICAS
+    - toni torrent ejemplo@gmailcom
+  - FOODFY WEB PRESENCE
+  - HELP CENTER
+  - undefined
+  - Seeding phase (Instagram) 
+    - stories secuence every 2 days
+    - 1 post per week 
+    - 3 trial reels per day
+    - 3/4 reels per week
+  - Reaching phase (Instagram)
+    - 1 reel per day
+    - 3 trial reels per day 
+  - Tipos de contenido ( Instagram
+    - Trial reels
+    - Posts
+      - Subtopic 1
+    - Reels
+  - Leading phase
+  - Fases elegibles de contenido *Cual es tu objetivo?*
+  - PROCESO DE NUVO CLIENTE
+  - CREA CUENTA
+  - se le crea una tienda llamada "mi tienda" de forma predeterminads y se pasa. a la facturaión de esta 
+  - se configura la facturacion de esta (omitible durante 3 dies
+  - DASHBOARD BACKEND
+  - DASHBOARD FRONTEND
+  - Floating Topic
+  - Escala de HEX
+  - undefined
+- INTERFAZ DE DASHBOARD
+  - CONFIGURACIÓN
+  - DISEÑO DE PAGINA DE CONFIGURACIÓN, ( a la izquiera del todo se muestran las paginas, seguido de estas a la derech se muestran los elementos, ajustes,e tc de cada una
+    - GENERAL: En general obtienes una vista general de la tienda, aqui ouedes ver y editar los datos de la tienda, los valores predeterminados de la tienda
+      - Datos de la tienda
+        - "Nombre de la tienda"
+          - undefined
+        - Direccion de la de la tiend
+      - Valores predeterminados de la tienda
+        - Visualización de la moneda, este contiene tres puntitos, al pulsarlos
+          - undefined
+            - Cambiar moneda de la tienda
+            - Cambiar formato de la tienda
+        - Región de copia de seguridad
+
+        - Sistema de unidades
+
+        - Unidad de peso predeterminada
+
+        - Zona horaria
+Establece la hora en la que se registran los pedidos y los informes y estadísticas
+      - Indentificadores de pedido
+        - Se muestra en la página de pedido, las páginas de cliente y las notificaciones de pedido del cliente para identificar el pedido
+          - Prefijo 
+          - Sufijo
+      - Procesamiento de pedidos
+        - Mientras el cliente realiza el pago
+
+          - Seleccionabes
+            - 
+Requerir un paso de confirmación
+Los clientes deben revisar los detalles de su pedido antes de comprar.
+        - Después de que se ha pagado un pedido
+          - Selecciones
+            - Preparar automáticamente las líneas de artículo del pedido
+            - Preparar automáticamente solo las tarjetas de regalo del pedido
+
+            - No preparar automáticamente ninguna de las líneas de artículo del pedido
+
+        - Después de que un pedido se ha preparado y pagado, o cuando todos los artículos se han reembolsado
+
+          - Selecciones
+            - Archivar el pedido automáticamente
+(El pedido se eliminará de tu lista de pedidos abiertos.)
+      - Recursos de la tienda
+        - Metacampos
+          - Lleva a metacampos de shopp
+        - Marca
+          - LLeva a subpagina dentro de marca 
+            - Que deberia agregar?(Menaje informativo responsive
+              - ESENCIAL
+                - logo predetermiando
+                - Logo cuadrado
+                - Colores
+              - ADICIONAL
+                - ......
+            - Logos
+              - Predeterminado
+	Se usa para las aplicaciones más comunes del logo
+              - Cuadrado
+Lo usan algunos canales de redes sociales. Puede recortarse en forma de círculo.
+            - Colores
+              - Principal
+Los colores de marca que aparecen en tu tienda, redes sociales y más sitios
+              - Secundario
+Colores complementarios que se usan para destacar y añadir detalles
+            - Imagen de portada
+              - Imagen clave que muestra tu marca en páginas de perfil y apps
+
+            - Eslogan
+
+              - Declaración de marca o eslogan que suele usarse junto con tu logo
+
+            - Descripción corta
+
+              - Descripción de tu negocio que suele usarse en biografías y publicaciones
+
+            - Enlace a redes sociales
+              - Al pulsar de abre mini desplegales de redes sociales
+            - Mensaje de pie de pagina
+              - Más información sobre cómo gestionar la configuración de tu marca
+      - Subtopic 6
+    - PLAN
+      - Información del plan
+        - Boton  de cambiar pla arriba a la derecha
+          - al pulsar cambiar plan 
+            - Se abre la seleccion de planes
+              - AL seleccionar el plan actual
+                - Tambien redirige a la pagina defacturación pero al darle a auscribirse sale como si se actulizara la siscripcion, pero es solo front en
+              - Al seleccionar una nuevo plan 
+                - Se abre la pagina de pago
+        - Boton de vern todas las funciones abajo
+          - AL pulsar en "ver funciones"
+            - Se abre la pagina de pago
+        - Cancelar plan
+          - AL pulsar en cancelar plan
+            - Sale el popup de cancelacion de plan
+      - Suscripciones
+    - FACTURACIÓN
+      - Proxima factura
+        - boton "ver factura" arriba  a la dereha
+        - Perfil de facturación
+          - al pulsar
+            - undefined
+              - Formas de pago, qui salen las tarjetas giardadas
+                - en eset hay un boton de "agreagar o remplazar forma de pago"
+                  - se abre el popup de añadir tarjeta (si añades una tarejta sale pues en las formas de pago)
+              - ID fiscal
+              - Moneda
+      - Moneda
+        - Las opciones de tu moneda de facturación están determinadas por tu país de la empresa.
+          - al pulsar se abre la pagina de seleccion de moneda
+            - Las opciones de tu moneda de facturación están determinadas por tu país de la empresa.
+    - USUARIOS
+      - pagina de usuarios
+        - Subpaginas despegabladas
+          - Roles
+          - Seguridad
+            - Subtopic 1
+        - arriba a la derecha
+          - Exportar
+            - al puslar
+          - Agregar usuarios
+            - al puslar
+              - Se abre la subpagina de agregacion de usuarios
+                - Diseño de la pagina:
+                  - Informción del usuario
+                    - aqui primero selecciona si es 
+                      - Usuario de amdin
+                      - Usuario del POC
+                      - Usuario del driver
+                  - Autenticación en dos pasos
+                  - Roles
+        - tras arriba  a la derecha
+          - Subtopic 1
+    -  PAGINA 5 "PAGOS"
+      - efeferfrefre
+        - Subtopic 1
+        - Subtopic 2
+        - Subtopic 3
+        - Subtopic 4
+        - Subtopic 5
+        - Subtopic 6
+        - Subtopic 7
+        - Subtopic 8
+    - Subtopic 21
+    - Subtopic 22
+    - Subtopic 23
+    - PÁGINA 6  "PAGO"
+      - BLOQUES DENTRO DE LA PÁGINA ( EN SU ORDEN)
+        - PANTALL DE PAGO (BLOQUE 1, seleccionables)
+          -  Método de contacto del cliente. El método de contacto que los clientes introducen en la pantalla de pago recibirá las notificaciones del pedido y del envío
+          - Número de teléfono o correo electrónico "Se requiere un app de SMS para enviar actualizaciones por SMS"
+          - Corre electrónico
+          - Muesta un enlace para que los clientes hagan un seguimiento de su pedido
+          - Requerir que los clientes inicien sesion en su cuenta antes del pago
+        - Información del cliente: aqui es donde eligues cuales son los datos que vas a exigir a tu cliente antes de la compra, puedes no incluir, hacer opcional, o hacer obligatorio, cuando mad datos son los que se piden, mayor puede ser su percentaje de perdida por disuasion
+        - Opciones de márketing
+        - Propinas
+          - Opcion seleccionable
+            - Los clientes pueden elegir entre 3 opciones predefinidas o introducir una cantidad personalizada
+        - Idioma de la pantalla de pago
+        - PREFERNCIAS AVANZADAS
+          - Recopilación de direcciones
+          - Limite de agregar al carrito "Recommendado"
+        - Reglas de pago
+    - CUENTAS DE CLIENTE
+      - fre
+    - ENVÍA Y ENTREGA
+    - IMPUESTOS Y ARANCELES
+      - 4r5f54
+    - SUSCURSALES
+    - APPS
+    - CANALES DE VENTA
+    - DOMINIOS
+    - EVENTOS DE CLIENTE
+    - NOTIFICACIONES
+    - METACAMPOS Y METAOBJETOS
+    - IDIOMAS
+    - PRIVACIDAD DEL CLIENTE
+    - POLÍTICAS
+    - toni torrent ejemplo@gmailcom
